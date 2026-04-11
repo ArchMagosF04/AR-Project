@@ -100,11 +100,11 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _GlowStrength: 5
+    - _GlowStrength: 3.5
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _PulseSpeed: 5
+    - _PulseSpeed: 2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -118,7 +118,7 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.6509434, g: 0.306483, b: 0, a: 1}
+    - _BaseColor: {r: 1, g: 0.7490196, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 1, g: 0, b: 0.9940314, a: 1}
     - _NeonColor: {r: 0, g: 1, b: 0.89762115, a: 1}
